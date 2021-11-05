@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MiprimeraApp.Dominio/1.0.0": {
+        "runtime": {
+          "MiprimeraApp.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiprimeraApp.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

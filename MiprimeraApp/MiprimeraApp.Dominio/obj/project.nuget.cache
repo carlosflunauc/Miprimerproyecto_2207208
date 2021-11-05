@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gXAXgo3yg6LxqRIT5+Y3ZE8hiz/jmGHEtqbCz8pPjZk0p4ZmSCGH9bF+fMJzzHAWJMBVtobdOmn8W9Sv+lDGJw==",
+  "dgSpecHash": "6usUzLJn6eQ9nkFC4WBXWcZNfUrHvQp0yQYY6+Awjnd9T4H7TY/e8B+sVEV2wGXFji4YtfCnDx159e8LzOe0bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Ejercicio_Sena_2021\\Miprimerproyecto\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Ejercicio_Sena_2021\\Miprimerproyecto\\MiprimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

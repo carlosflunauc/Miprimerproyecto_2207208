@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\MiprimeraApp.Dominio.deps.json
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\MiprimeraApp.Dominio.dll
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\ref\MiprimeraApp.Dominio.dll
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\MiprimeraApp.Dominio.pdb
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.dll
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\ref\MiprimeraApp.Dominio.dll
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.pdb
