@@ -47,3 +47,7 @@ TUTORIAL INICIAL asp.net core 5.0
             dotnet add package Microsoft.EntityFrameworkCore.Tools
             dotnet add package Microsoft.EntityFrameworkCore.Design
             dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+    9) Crear la migracion a la base de datos
+        a) dotnet ef migrations add Inicial --startup-project ..\MiprimeraApp.Consola\
+        b) 
