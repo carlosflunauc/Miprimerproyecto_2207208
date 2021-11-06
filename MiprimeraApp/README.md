@@ -47,7 +47,20 @@ TUTORIAL INICIAL asp.net core 5.0
             dotnet add package Microsoft.EntityFrameworkCore.Tools
             dotnet add package Microsoft.EntityFrameworkCore.Design
             dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+    
+    9) Crear las referencias a las carpetas de persistencia y dominio; siempre y cuando analicemos que uniones debemos realizar dentro de los .csproj
 
-    9) Crear la migracion a la base de datos
-        a) dotnet ef migrations add Inicial --startup-project ..\MiprimeraApp.Consola\
-        b) 
+        dotnet add reference ..\MiprimeraApp.Dominio
+            a) Carpeta Consola referencia a Persistencia y Dominio
+            b) Carpeta Persistencia referencia a Dominio
+
+    10) Crear las entidades en la carpeta Dominio
+
+    11) Crear el AppContext para realizar el mapeo de las entidades para crear la migracion y crear la conexion con la base de datos (SQL Server)
+
+    12) Crear la migracion a la base de datos
+        12.1) Si no se tiene migraciones.
+            a) dotnet ef migrations add Inicial --startup-project ..\MiprimeraApp.Consola\
+
+        12.2) Si ya existe migraciones
+            a) dotnet ef database update --startup-project ..\MiprimeraApp.Consola\
