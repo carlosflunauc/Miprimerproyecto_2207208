@@ -8,5 +8,6 @@ namespace MiprimeraApp.Persistencia
          IEnumerable<Paciente> GetAllPaciente();
          Paciente AddPaciente(Paciente paciente);
          Paciente GetPaciente(int idPaciente);
+         SignoVital AsignarSignoVital(int idPaciente, SignoVital signoVital);
     }
 }

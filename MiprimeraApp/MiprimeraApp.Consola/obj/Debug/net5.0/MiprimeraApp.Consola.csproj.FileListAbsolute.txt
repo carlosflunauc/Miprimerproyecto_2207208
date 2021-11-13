@@ -66,3 +66,4 @@ C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.
 C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Persistencia.dll
 C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Dominio.pdb
 C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\bin\Debug\net5.0\MiprimeraApp.Persistencia.pdb
+C:\Users\USUARIO\Ejercicio_Sena_2021\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Consola.csproj.CopyComplete
